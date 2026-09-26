@@ -1,6 +1,4 @@
 # Boniatitos-de-Guayaba
-“Crisp boniato croquettes filled with warm guava and cream cheese, coated in graham-panko crumbs and finished with sweet spices and sugar.”
-• pick one or the other
 “A new Cuban-inspired dessert croquette, developed from the meeting point of papas rellenas, boniatillo, and guava-and-cheese pastelitos.”
 
 ---
@@ -60,5 +58,4 @@ The Frying
 1.  fry
 1.  serve
 
-2.  ![Image1]step by step.jpg
-3.  
+!(step by step.jpg)
