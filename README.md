@@ -58,4 +58,6 @@ The Frying
 1.  fry
 1.  serve
 
-![image 2](../The-Unwritten-Menu/Boniatitos-de-Guayaba-/Boniatitos de Guayaba.jpg)
+![image 1](https://github.com/The-Unwritten-Menu/Boniatitos-de-Guayaba-/blob/main/Boniatitos%20de%20Guayaba.jpg)
+
+![step by step](https://github.com/The-Unwritten-Menu/Boniatitos-de-Guayaba-/blob/main/step%20by%20step.jpg)
