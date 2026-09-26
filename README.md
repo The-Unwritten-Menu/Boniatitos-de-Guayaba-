@@ -58,4 +58,5 @@ The Frying
 1.  fry
 1.  serve
 
-!(Boniatitos-de-Guayaba-/Boniatitos de Guayaba.jpg)
+![1](Boniatitos-de-Guayaba-/blob/main/Boniatitos de Guayaba.jpg)
+![2](Boniatitos-de-Guayaba-/Boniatitos de Guayaba.jpg)
