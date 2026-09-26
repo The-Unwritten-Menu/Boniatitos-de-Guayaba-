@@ -18,7 +18,7 @@
 
 The Sweet Dough
 * cuban boniato
-* sweet yam
+* cuban camote
 * star anise
 * vanilla extract
 * turbinado sugar
