@@ -2,16 +2,13 @@
 # Boniatitos-de-Guayaba
 “A new Cuban-inspired dessert croquette, developed from the meeting point of papas rellenas, boniatillo, and guava-and-cheese pastelitos.”
 
+*This recipe takes the classic Cuban savory papas rellenas and reimagines it as a stunning dessert fusion. Featuring fragrant, spiced sweet potato (boniato/camote) base, a molten core of tropical guava paste and cream cheese, and a shattering-crisp crust made from a blend of graham crackers, panko, and grape nuts, this dish bridges distinct pillars of Cuban comfort food into a modern sweet treat.*
 ---
 
 * Prep time:  30 mins - 3 hours
 * Cook time:  15 mins - 60 mins
 * Chill time: 30 mins - 24 hours
 * Yields:     12–15 balls
-
----
-
-*This recipe takes the classic Cuban savory papas rellenas and reimagines it as a stunning dessert fusion. Featuring fragrant, spiced sweet potato (boniato/camote) base, a molten core of tropical guava paste and cream cheese, and a shattering-crisp crust made from a blend of graham crackers, panko, and grape nuts, this dish bridges distinct pillars of Cuban comfort food into a modern sweet treat.*
 
 ---
 
